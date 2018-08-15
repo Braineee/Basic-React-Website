@@ -4,5 +4,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 - It can be expanded based on your choice
 
 # Usage 
-- Download the file. 
+- Download the file. -
+- Run ``` npm install ```
 
