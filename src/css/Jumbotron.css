@@ -1,0 +1,11 @@
+.background-img {
+    background-image: url("../images/jumbotronpics.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color: #fff;
+    text-shadow: 2px 2px 8px #9ad3e0;
+}
+
+.nav-space-stop {
+    margin-top: 30px;
+}

@@ -1,0 +1,37 @@
+.bg-dark{
+	background-color: #000!important;
+}
+.justify{
+	text-align: justify;
+}
+.pull-right{
+	text-align: right;
+}
+.emphasis{
+	padding: 10px;
+	background-color: #F0F0F0;
+}
+.body_subhead{
+	margin-top:20px;
+	margin-bottom:20px;
+	text-align:center;
+	color:#f00;
+	font-size:20px;
+}
+.body_subhead_plain{
+	margin-top:20px;
+	margin-bottom:20px;
+	text-align:center;
+	color:#000;
+	font-size:15px;
+}
+.body_subhead_quote{
+	margin-top:20px;
+	margin-bottom:20px;
+	text-align:center;
+	color:#000;
+	font-size:30px;
+}
+.com_center{
+	text-align:center;
+}
